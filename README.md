@@ -58,7 +58,3 @@ I want to know if I'm keeping with HTML and CSS best practices.
 ## Author
 
 - Frontend Mentor - [@marcuscs00](https://www.frontendmentor.io/profile/marcuscs00)
-
-```
-
-```
