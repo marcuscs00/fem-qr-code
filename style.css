@@ -83,6 +83,7 @@ body {
     display: grid;
     place-items: center;
     margin: 0;
+    box-shadow: 0 3px 7px gray;
 }
 
 h1 {
