@@ -22,7 +22,7 @@ This is an attempt at the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/qr-code-component-with-css-grid-FoMDpn-RDA)
 
 - Live Site URL: [GitHub Pages](https://marcuscs00.github.io/fem-qr-code/)
 
